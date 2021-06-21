@@ -1,0 +1,30 @@
+.box {
+  display: flex;
+}
+
+.backBtn {
+  width: 100px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.backBtn:hover {
+  color: rgb(156, 0, 52);
+}
+
+.image {
+  width: 240px;
+}
+
+.genreList {
+  display: flex;
+}
+.genreItem {
+  margin: 5px;
+}
+.linksBox {
+  margin: 10px;
+  font-size: 20px;
+}

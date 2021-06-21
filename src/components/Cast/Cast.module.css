@@ -1,0 +1,12 @@
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.castItem {
+  width: calc((100% - 15px) / 3);
+  margin-right: -100px;
+  margin-bottom: 20px;
+}
+.castImage {
+  width: 250px;
+}
